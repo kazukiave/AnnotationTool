@@ -1,0 +1,37 @@
+﻿{
+    "imageName": "systemicpainting00allo1024_45.jpg",
+    "sliderValue": 1
+}{
+    "imageName": "systemicpainting00allo1024_51.jpg",
+    "sliderValue": 0
+}{
+    "imageName": "systemicpainting00allo1024_41.jpg",
+    "sliderValue": 0
+}{
+    "imageName": "systemicpainting00allo1024_46.jpg",
+    "sliderValue": 0
+}{
+    "imageName": "systemicpainting00allo1024_39.jpg",
+    "sliderValue": 1
+}{
+    "imageName": "systemicpainting00allo1024_55.jpg",
+    "sliderValue": 1
+}{
+    "imageName": "systemicpainting00allo1024_33.jpg",
+    "sliderValue": 0
+}{
+    "imageName": "systemicpainting00allo1024_41.jpg",
+    "sliderValue": 1
+}{
+    "imageName": "systemicpainting00allo1024_52.jpg",
+    "sliderValue": 0
+}{
+    "imageName": "systemicpainting00allo1024_44.jpg",
+    "sliderValue": 0
+}{
+    "imageName": "systemicpainting00allo1024_46.jpg",
+    "sliderValue": 1
+}{
+    "imageName": "systemicpainting00allo1024_56.jpg",
+    "sliderValue": 0
+}
